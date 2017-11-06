@@ -1,4 +1,4 @@
-@runThis 
+@smoke 
 Feature: As a user, I want to be able to add new employee to Editor webtable 
 
 Scenario: I can add a new employee 
